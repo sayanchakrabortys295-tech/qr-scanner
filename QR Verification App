@@ -1,0 +1,12 @@
+A permission-based QR verification web app.
+
+Features:
+- Requests camera permission before access
+- Requests location permission transparently
+- Captures photo only after user consent
+- Displays capture status clearly
+- Built using HTML, CSS, and JavaScript
+- Hosted on GitHub Pages
+
+Privacy:
+No data is collected silently. All permissions are user-approved.
